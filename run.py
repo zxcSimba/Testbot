@@ -4,7 +4,7 @@ import time
 room_id = "6262f2ece62063a56f1375c9"
 bot_token = "721fbe70a38729a2a52d360799c3f44fd51726f11b665848c0245bdecce73d41"
 bot_file = "main"
-bot_class = "MyBot"
+bot_class = "Mybot"
 
 if __name__ == "__main__":
   definitions = [
